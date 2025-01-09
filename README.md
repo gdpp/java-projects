@@ -4,9 +4,9 @@ Java is a high-level, object-oriented, and platform-independent programming lang
 
 ## Table of Content
 
-[1. Hello World](HelloWorld/README.md)
-[2. Foundation](Foundation/README.md)
-[3. Strings](Strings/README.md)
+- [1. First program, "Hello World"](HelloWorld/README.md)
+- [2. Java Foundations](Foundation/README.md)
+- [3. Strings in Java](Strings/README.md)
 
 ---
 
